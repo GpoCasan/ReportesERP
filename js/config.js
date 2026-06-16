@@ -1,8 +1,7 @@
 // ==================== CONFIGURACIÓN GLOBAL ====================
 const CONFIG = {
     FIXED_TOKEN: "71185|aP92nbw0SWxApAOaKUFRI6alhQa7KnBnTKG1ngBq",
-    PAYJOY_EMAIL: "jcsanchez@grupocasan.com.mx",
-    PAYJOY_PASSWORD: "Servicel0524",
+
     
     // APIs
     API_LOGS: 'https://inventory.gcasan.com/api/specifications-group/logs',
